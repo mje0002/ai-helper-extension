@@ -1,8 +1,6 @@
-# Chrome Extension TypeScript Starter
+# Chrome Extension Ai Helper
 
-![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
-
-Chrome Extension, TypeScript and Visual Studio Code
+Chrome extension to help with analzying text from emails and presenting the option to have AI help rework the email.
 
 ## Prerequisites
 
